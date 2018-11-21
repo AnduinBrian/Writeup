@@ -1,0 +1,1 @@
+Writeup: https://brianstormrage1134.wordpress.com/2018/11/22/freeze-ritsec-2018/
