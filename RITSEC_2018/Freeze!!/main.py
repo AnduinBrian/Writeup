@@ -24,7 +24,7 @@ def b(key, flag):
     for i in range(0, len(arr)):
         res += chr(ord(key[i % len(key)]) ^ int(arr[i], 16))
     
-    if res[:7] == "RITSEC{":
+    if "RITSEC{" in res :
         print res
    
     #print res
